@@ -59,8 +59,9 @@ This project leverages **Power BI** to provide in-depth financial insights for b
 ## 📈 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/megha-2461/Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power BI Dashboard Image" width="800">
+  <img src="Power Bi Dashboard Image.png" alt="Power BI Dashboard Image" width="800">
 </p>
+
 
 ---
 
